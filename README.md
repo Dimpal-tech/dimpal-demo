@@ -1,4 +1,4 @@
 # dimpal-demo
 This is my first  Git Repository.
 <br>
-Author - Dimpal Rai
+Author - Dimpal Rai (Bhumihar)
