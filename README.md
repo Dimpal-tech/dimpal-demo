@@ -1,4 +1,4 @@
 # dimpal-demo
 This is my first  Git Repository.
 <br>
-Author - Dimpal rai
+Author - Dimpal rai (Buxar)
